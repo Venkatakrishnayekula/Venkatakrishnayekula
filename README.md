@@ -2,7 +2,32 @@
 
 ###
 
-<p align="left">My name is Venkatakrishna. I am a Software Engineer  Full-Stack Automation Specialist  AI Workflow Architect</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="160" alt="AI Pulse">
+</p>
+
+<h3 align="center">👋 Hi, I'm <strong>Venkatakrishna</strong></h3>
+
+<p align="center">
+  💻 Software Engineer · 🔄 Java Full-Stack Developer · 🤖 AI Workflow Architect  
+</p>
+
+
+
+---
+
+🎓 I hold a Master’s degree in <strong>Computer Science</strong> from the University of Central Missouri, where I specialized in <strong>AI & Machine Learning</strong>.  
+🧠 With 4 years of experience across finance, SaaS, and healthcare, I’ve built scalable systems, secure APIs, and intelligent automation workflows.  
+🚀 Currently, I’m prototyping agentic AI systems for job curation, skill diagnostics, and outreach automation — blending LLMs, prompt engineering, and orchestration logic.
+
+---
+
+🛠️ <strong>Tech Stack Highlights:</strong>  
+- Python · LangChain · OpenAI API · PostgreSQL  
+- GitHub Copilot · Cursor AI · Streamlit · Terraform  
+- Java · Spring Boot · React.js · Kafka · Redis  
+
+🌟 Let’s build intelligent workflows that make a real-world impact.
 
 ###
 
@@ -67,5 +92,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qMGOIRnDWIUUM4htkD/giphy.gif" width="160" alt="Coding Flow">
+</p>
 
 ###
